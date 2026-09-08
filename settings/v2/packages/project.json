@@ -4,5 +4,10 @@
     "designResolution": {
       "fitHeight": false
     }
+  },
+  "physics": {
+    "gravity": {
+      "y": 0
+    }
   }
 }
